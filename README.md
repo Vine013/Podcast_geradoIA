@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062?pvs=4> Preview do Podcast </a>
+  <a href="https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062?pvs=4"> Preview do Podcast </a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
