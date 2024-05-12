@@ -1,12 +1,12 @@
 <p align="center">
 <img 
-    src=""
+    src="https://github.com/Vine013/Podcast_geradoIA/blob/main/PODCAST_DIO/IMGS/capaEp1.jpg"
     width="300"
 />
 </p>
 
 <div align="center">
-    <audio src="" controls title="Podcast editado">Preview do Podcast</audio>
+    <audio src="https://file.notion.so/f/f/3ab9137d-fe2b-4011-a656-4dbf45697c6f/ff044ba2-038b-40a9-933e-4ca0c628da48/podcast_editado.mp4?id=9d824880-4d7e-4bab-9854-ae05c8c703bb&table=block&spaceId=3ab9137d-fe2b-4011-a656-4dbf45697c6f&expirationTimestamp=1715644800000&signature=VcXlvAA-1cn0LZD0cIHG9qY_UafgbIS84exNtPIfTHE&downloadName=podcast_editado.mp4" controls title="Podcast editado">Preview do Podcast</audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -46,4 +46,5 @@ Acesse o projeto do Podcast:
         href="https://www.linkedin.com/in/vinicius-santiago-aab4851ab/">
         LinkedIn
     </a> 
+    <br>
 [Vinicius Santiago](https://github.com/Vine013)
