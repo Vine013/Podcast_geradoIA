@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://file.notion.so/f/f/3ab9137d-fe2b-4011-a656-4dbf45697c6f/ff044ba2-038b-40a9-933e-4ca0c628da48/podcast_editado.mp4?id=9d824880-4d7e-4bab-9854-ae05c8c703bb&table=block&spaceId=3ab9137d-fe2b-4011-a656-4dbf45697c6f&expirationTimestamp=1715644800000&signature=VcXlvAA-1cn0LZD0cIHG9qY_UafgbIS84exNtPIfTHE&downloadName=podcast_editado.mp4" target="blank"> Preview do Podcast </a>
+  <a href="https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062?pvs=4> Preview do Podcast </a>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
