@@ -1,42 +1,66 @@
+
+
 <p align="center">
-<img 
-    src="https://github.com/Vine013/Podcast_geradoIA/blob/main/PODCAST_DIO/IMGS/capaEp1.jpg"
-    width="200"
-/>
+  <img 
+    src="https://github.com/Vine013/IA-Article/blob/main/preview.jpeg?raw=true"
+    width="300"  
+  />
 </p>
 
-<div align="center">
-  <a href="https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062?pvs=4"> Preview do Podcast </a>
-</div>
-
-# Projeto Podcast Gerado por I.A.s
+# Projeto artigo técnico CUSTOMER SUCCESS gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este repositório foi desenvolvido por mim durante um desafio do Bootcamp do Santander em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório foi desenvolvido por mim durante o Bootcamp do Santander na plataforma da [DIO](https://dio.me).
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-## ❤️ Projeto
-| Ação | Ideia Gerada |
-|-------|-------------|
-| Título | Guardiões da Web - Protegendo a Interface Universal |
-| Tema | Podcast de tecnologia focado em Front End |
+Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
+
+<a href="https://web.dio.me/articles/sucesso-do-cliente-insights-de-planejamento-de-acao-com-enfase-no-suporte-ao-cliente?back=%2Farticles&open-modal=true&page=1&order=oldest"> 📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
-## ✨ Como foi feito ?
+## 📄 Prompts e ferramentas
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Projeto Concluido
-Acesse o projeto do Podcast:
-- [Notion]([https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4](https://www.notion.so/Podcast-Gerado-po-IA-s-8b48585f86374ac8a590eaa911e5f062))
+ChatGPT：
 
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Customer Success - Plano de Ação                                                                                                                                                                                                   |
+| conteúdo | Comporte-se como um escritor de artigos tech especialista em Customer Success e escreva o artigo atendendo as regras abaixo | 
+| regras | No máximo 5 linhas por blocos de explicação;<br>Me explique de maneira informal, como se eu fosse uma criança de 10 anos;<br>Os blocos que serão criados estão abaixo: |
+|blocos | - O que é customer success?<br>- Como planejar um suporte ao cliente de forma eficaz?<br> - O que são as soft skills?<br> - Quais passos seguir para ter sucesso na área?<br> - Faça um call to action para as minhas redes sociais<br> - Coloque hashtags que façam sentido |
+
+
+Lexica.art：
+
+No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa utilizados foram:
+
+• Customer;
+<br>
+• Blue customer;
+<br>
+• Blue customer war;
+<br>
+• Customer pixar style;
+
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens do acervo público geradas via Lexica.art
+
+## 📚 Materiais
+
+- prompts utilizados
+
+## 👨‍💻 Criador
+ 
+<a href="https://www.linkedin.com/in/vinicius-santiago-aab4851ab/">LinkedIn</a>
+
+---
+
+Criado e revisado por [Vinicius Santiago](https://github.com/Vine013)
