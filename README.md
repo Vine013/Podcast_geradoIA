@@ -14,7 +14,6 @@ Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO me desafio
 ## 📒 Descrição
 - Elaboração de um Podcast sobre front-end
 - Elaboração de um artigo sobre customer success
-- Elaboração de e-book temático sobre seletores CSS
   
 ## 🤖 Tecnologias Utilizadas
 - ChatGPT
